@@ -3,8 +3,6 @@
 </p>
 
 📍​ Paris<br>💻​ Currently studying at 42 school<br>🔍​ Looking for an internship in security engineering<br>🌱 Learning cybersecurity, low level programming, AI
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/725cca80-ffb2-41fb-bde5-a7843edce874" />
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jorislne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorislaine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joris.laine98@gmail.com) 
