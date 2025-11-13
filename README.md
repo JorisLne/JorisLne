@@ -1,5 +1,8 @@
 ## Welcome 👋
 
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/b44259b4-40be-456b-97e6-f5e332728488" />
+
+
 # 💫 About Me:
 📍​ Paris<br>💻​ Currently studying at 42 school<br>🔍​ Looking for an internship in security engineering<br>🌱 Learning cybersecurity, low level programming, AI
 
