@@ -3,6 +3,7 @@
 </p>
 
 📍​ Paris<br>💻​ Currently studying at 42 school<br>🔍​ Looking for an internship in security engineering<br>🌱 Learning cybersecurity, low level programming, AI
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/725cca80-ffb2-41fb-bde5-a7843edce874" />
 
 
 ## 🌐 Socials:
