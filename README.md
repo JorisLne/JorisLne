@@ -12,5 +12,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorisLne&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=JorisLne&theme=nord&hide_border=true)<br/>
-
-![Snake animation](https://github.com/JorisLne/JorisLne/blob/output/github-contribution-grid-snake.svg)
