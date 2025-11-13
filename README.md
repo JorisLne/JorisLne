@@ -1,7 +1,5 @@
-## Welcome 👋
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome&animation=scaleIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Welcome&animation=scaleIn&fontAlign=50&fontAlignY=62&strokeWidth=2&descAlign=50&descAlignY=50"/>
 </p>
 
 📍​ Paris<br>💻​ Currently studying at 42 school<br>🔍​ Looking for an internship in security engineering<br>🌱 Learning cybersecurity, low level programming, AI
