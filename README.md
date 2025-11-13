@@ -1,4 +1,7 @@
 ## Welcome 👋
+
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&reversal=false)
+
 # 💫 About Me:
 📍​ Paris<br>💻​ Currently studying at 42 school<br>🔍​ Looking for an internship in security engineering<br>🌱 Learning cybersecurity, low level programming, AI
 
